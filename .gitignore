@@ -1,0 +1,18 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# User uploads
+backend/uploads/
+
+# Environment / secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
