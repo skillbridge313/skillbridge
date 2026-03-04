@@ -471,10 +471,6 @@ We welcome contributions! Here's how to get started:
 - **Frontend Framework**: React
 - **Backend Framework**: Flask
 - **AI Model**: OpenAI GPT-4/3.5
-- **License**: MIT
 
 ---
 
-**Made with 🌉 by the SkillBridge Team**
-
-⭐ If you find this project helpful, please consider giving it a star!
