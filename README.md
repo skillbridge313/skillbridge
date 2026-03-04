@@ -408,29 +408,7 @@ curl -X POST -H "Content-Type: application/json" \
 
 Here's what the application looks like:
 
-```
-┌─────────────────────────────────────────┐
-│  🌉 SkillBridge                          │
-│  AI-Powered Career Readiness Analysis   │
-├─────────────────────────────────────────┤
-│                                          │
-│  📄 Upload Your Resume                  │
-│  ┌─────────────────────────────────┐   │
-│  │  Click to upload or drag drop   │   │
-│  │         PDF or DOCX             │   │
-│  └─────────────────────────────────┘   │
-│                                          │
-│  Target Job Role: [________________]   │
-│                                          │
-│  [🚀 Analyze Resume]                    │
-│                                          │
-├─────────────────────────────────────────┤
-│  Results:                                │
-│  ✓ Technical Skills: Python, ML...     │
-│  ⚠ Missing: Deep Learning, PyTorch    │
-│  Score: 65%                             │
-└─────────────────────────────────────────┘
-```
+[SkillBridge UI](screenshots/skillbridge-ui.png)
 
 ---
 
